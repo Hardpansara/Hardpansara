@@ -17,6 +17,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+- C programming
+- C++
+- Core Java
+- Advance Java
 <!--
 **Hardpansara/Hardpansara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
