@@ -7,7 +7,7 @@
 
 <h3 align="left">💫 About Hard Pansara:</h3>
 🔭 I’m currently exploring and building<br>
-- 📫 How to reach me **hard.pansara8194@gmail.com*
+- 📫 How to reach me **hard.pansara8194@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,10 +17,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-- **C programming**<br>
--C++ <br>
--Core Java<br>
--Advance Java<br>
 <!--
 **Hardpansara/Hardpansara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
