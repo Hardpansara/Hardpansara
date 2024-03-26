@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-**C programming** <br>
+- **C programming**<br>
 -C++ <br>
 -Core Java<br>
 -Advance Java<br>
