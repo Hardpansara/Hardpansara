@@ -27,7 +27,10 @@ I explore the intersection of **cybersecurity**, **embedded systems**, **AI**, a
   A full-stack tool to scan, monitor, and secure wireless networks — made for both techies and non-techies.
 
 - **[Wi-Fi Penetration Tool](https://github.com/Hardpansara/esp32-wifi-penetration-tool)**  
-  ESP32-based Wi-Fi penetration tool.  
+  ESP32-based Wi-Fi penetration tool. 
+
+- **[WeatherApp](https://github.com/Hardpansara/Weather-App):**  
+  Stay ahead of the skies – real-time weather updates at your fingertips. 
 
 
 ---
