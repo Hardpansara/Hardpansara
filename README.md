@@ -26,11 +26,9 @@ I explore the intersection of **cybersecurity**, **embedded systems**, **AI**, a
 - **[Network Guardian Toolkit](https://github.com/Hardpansara/Network-security-toolkit):**  
   A full-stack tool to scan, monitor, and secure wireless networks — made for both techies and non-techies.
 
-- **Evil Twin Wi-Fi Simulator:**  
-  Educational tool to simulate rogue APs and teach how credentials can be phished over wireless.
+- **[Wi-Fi Penetration Tool](https://github.com/Hardpansara/esp32-wifi-penetration-tool)**  
+  ESP32-based Wi-Fi penetration tool.  
 
-- **2.4 GHz Signal Jammer (ESP32):**  
-  DIY jammer project exploring signal-level vulnerabilities in the wireless spectrum.
 
 ---
 
