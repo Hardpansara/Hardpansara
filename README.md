@@ -54,18 +54,19 @@ I love building things that:
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardpansara&show_icons=true&theme=dracula&line_height=32">
+</p>
+
+---
+
 ## 🤝 Let’s Connect
 
-- 📫 [hardpansara@gmail.com](mailto:hardpansara@gmail.com)
+- 📫 [hardpansara@gmail.com](mailto:hardpansara10@gmail.com)
 - 💼 [LinkedIn](http://linkedin.com/in/hard-pansara-22582a288)
 
 
 ---
 
-## ⚡ Fun Fact
-
-I mix **hardware, code, and curiosity** to turn technical concepts into hands-on learning experiences — whether that’s through a packet sniffer, a fake AP, or a clean React UI.
-
----
-
-Made with ☕, 💻, and a few too many terminal windows.
