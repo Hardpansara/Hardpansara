@@ -65,7 +65,7 @@ I love building things that:
 
 ## 🤝 Let’s Connect
 
-- 📫 [hardpansara@gmail.com](mailto:hardpansara10@gmail.com)
+- 📫 [hardpansara10@gmail.com](mailto:hardpansara10@gmail.com)
 - 💼 [LinkedIn](http://linkedin.com/in/hard-pansara-22582a288)
 
 
