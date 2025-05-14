@@ -26,11 +26,14 @@ I explore the intersection of **cybersecurity**, **embedded systems**, **AI**, a
 - **[Network Guardian Toolkit](https://github.com/Hardpansara/Network-security-toolkit):**  
   A full-stack tool to scan, monitor, and secure wireless networks — made for both techies and non-techies.
 
-- **[Wi-Fi Penetration Tool](https://github.com/Hardpansara/esp32-wifi-penetration-tool)**  
+- **[Wi-Fi Penetration Tool](https://github.com/Hardpansara/esp32-wifi-penetration-tool):**  
   ESP32-based Wi-Fi penetration tool. 
 
 - **[WeatherApp](https://github.com/Hardpansara/Weather-App):**  
-  Stay ahead of the skies – real-time weather updates at your fingertips. 
+  Stay ahead of the skies – real-time weather updates at your fingertips.
+
+- **[Instagram Profile Fetcher](https://github.com/Hardpansara/instagram-profile-fetcher):**  
+  Flask-powered tool to fetch and generate HTML reports of Instagram profile data with media previews.
 
 
 ---
